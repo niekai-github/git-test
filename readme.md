@@ -1,2 +1,2 @@
 readme first
-Creating a new branch quick & simple.
+Creating a new branch quick AND simple.
