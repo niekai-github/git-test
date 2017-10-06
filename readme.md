@@ -1,4 +1,4 @@
 readme first
 Creating a new branch quick AND simple.
-add merge
+add a merge
 bug branch
